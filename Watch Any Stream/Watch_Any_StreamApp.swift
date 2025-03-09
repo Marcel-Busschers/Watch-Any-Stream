@@ -11,7 +11,7 @@ import SwiftUI
 struct Watch_Any_StreamApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashScreen()
         }
     }
 }
